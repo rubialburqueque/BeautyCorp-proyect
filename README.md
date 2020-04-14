@@ -1,2 +1,2 @@
 # BeautyCorp-proyect
-Proyecto Hackton 
+Proyecto Hackaton interna

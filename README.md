@@ -1,0 +1,2 @@
+# BeautyCorp-proyect
+Proyecto Hackton 
